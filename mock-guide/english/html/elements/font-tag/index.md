@@ -5,7 +5,7 @@ title: Font Tag
 
 *This feature was deprecated in HTML 4.01 and removed in HTML 5.*
 
-The HTML Font Element `<font>` defines the font size, color and face for its content. It was normalized in HTML 3.2 but was then deprecated in HTML 4.01 and is now obsolete in HTML5. Although it still may work in some browsers, it is advised to stop using it as it could be removed at anytime. Styling fonts can be achieved and far better controlled through CSS, in fact all styling should be written using CSS only. 
+The HTML Font Element `<font>` defines the font size, color and face for its content. It was normalized in HTML 3.2, but was then deprecated in HTML 4.01 and is now obsolete in HTML5. Although it still may work in some browsers, it is advised to stop using it as it could be removed at anytime. Styling fonts can be achieved and far better controlled through CSS, in fact all styling should be written using CSS only. 
 
 The **former** behavior of the `<font>` element:
 
