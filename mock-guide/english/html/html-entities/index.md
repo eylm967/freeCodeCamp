@@ -65,7 +65,7 @@ This is by no means an exhaustive list but the links below will be able to give 
 
 
 #### More Information:
-There are plenty of HTML entites references out there; some examples are:
+There are plenty of HTML entites references out there. Some examples are:
 * [Table of Entities - W3](https://dev.w3.org/html5/html-author/charref)
 * [W3 Schools](https://www.w3schools.com/html/html_entities.asp)
 * [Freeformatter](https://www.freeformatter.com/html-entities.html)
